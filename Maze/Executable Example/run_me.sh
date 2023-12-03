@@ -1,0 +1,1 @@
+java -jar "Maze - Example.jar" 5 5
